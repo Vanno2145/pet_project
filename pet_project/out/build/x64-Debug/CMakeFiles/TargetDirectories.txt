@@ -1,0 +1,6 @@
+C:/Users/Ivan Mlanarskiy/Desktop/pet_project/out/build/x64-Debug/CMakeFiles/pet_app.dir
+C:/Users/Ivan Mlanarskiy/Desktop/pet_project/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Ivan Mlanarskiy/Desktop/pet_project/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ivan Mlanarskiy/Desktop/pet_project/out/build/x64-Debug/lib/CMakeFiles/pets.dir
+C:/Users/Ivan Mlanarskiy/Desktop/pet_project/out/build/x64-Debug/lib/CMakeFiles/edit_cache.dir
+C:/Users/Ivan Mlanarskiy/Desktop/pet_project/out/build/x64-Debug/lib/CMakeFiles/rebuild_cache.dir
