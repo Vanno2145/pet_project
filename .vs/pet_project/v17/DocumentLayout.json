@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\src\\Pet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\src\\Pet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\include\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\include\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\include\\Cat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\include\\Cat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\include\\Pet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\include\\Pet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\include\\Parrot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\include\\Parrot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\src\\Cat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\src\\Cat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pet.cpp",
+              "DocumentMoniker": "C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\src\\Pet.cpp",
+              "RelativeDocumentMoniker": "lib\\src\\Pet.cpp",
+              "ToolTip": "C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\src\\Pet.cpp",
+              "RelativeToolTip": "lib\\src\\Pet.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-03T06:47:08.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pet.h",
+              "DocumentMoniker": "C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\include\\Pet.h",
+              "RelativeDocumentMoniker": "lib\\include\\Pet.h",
+              "ToolTip": "C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\include\\Pet.h",
+              "RelativeToolTip": "lib\\include\\Pet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-03T06:45:31.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parrot.h",
+              "DocumentMoniker": "C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\include\\Parrot.h",
+              "RelativeDocumentMoniker": "lib\\include\\Parrot.h",
+              "ToolTip": "C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\include\\Parrot.h",
+              "RelativeToolTip": "lib\\include\\Parrot.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-03T06:45:11.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.h",
+              "DocumentMoniker": "C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\include\\Dog.h",
+              "RelativeDocumentMoniker": "lib\\include\\Dog.h",
+              "ToolTip": "C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\include\\Dog.h",
+              "RelativeToolTip": "lib\\include\\Dog.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-03T06:45:04.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.h",
+              "DocumentMoniker": "C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\include\\Cat.h",
+              "RelativeDocumentMoniker": "lib\\include\\Cat.h",
+              "ToolTip": "C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\include\\Cat.h",
+              "RelativeToolTip": "lib\\include\\Cat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-03T06:44:54.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cat.cpp",
+              "DocumentMoniker": "C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\src\\Cat.cpp",
+              "RelativeDocumentMoniker": "lib\\src\\Cat.cpp",
+              "ToolTip": "C:\\Users\\Ivan Mlanarskiy\\Desktop\\pet_project\\lib\\src\\Cat.cpp",
+              "RelativeToolTip": "lib\\src\\Cat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-03T06:44:47.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
