@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Ivan Mlanarskiy/Desktop/pet_project/build/release/cmake_install.cmake",
+		"C:/Users/Ivan Mlanarskiy/Desktop/pet_project/build/release/lib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

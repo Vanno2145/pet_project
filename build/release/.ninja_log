@@ -1,0 +1,7 @@
+# ninja log v6
+26	2210	8155701386666360	lib/CMakeFiles/pets.dir/src/Dog.cpp.obj	7dca70357298fe93
+40	2220	8155701386796381	lib/CMakeFiles/pets.dir/src/Cat.cpp.obj	f072f266efdb4b5
+57	2228	8155701386976405	CMakeFiles/pet_app.dir/src/main.cpp.obj	39a70eb4cb3349c0
+13	2245	8155701386526483	lib/CMakeFiles/pets.dir/src/Pet.cpp.obj	98401ca928d56a3e
+2246	2376	8155701408858690	lib/pets.lib	4a339e34377d4c1a
+2377	2870	8155701410168696	pet_app.exe	98ec59ce3bba2a44

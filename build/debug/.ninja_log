@@ -1,0 +1,7 @@
+# ninja log v6
+64	4147	8155700826411361	CMakeFiles/pet_app.dir/src/main.cpp.obj	fd37dffb5d9edb56
+15	4156	8155700825928275	lib/CMakeFiles/pets.dir/src/Pet.cpp.obj	7a0839231045fb6d
+48	4161	8155700826251363	lib/CMakeFiles/pets.dir/src/Cat.cpp.obj	a937eb86e75606ad
+33	4167	8155700826101363	lib/CMakeFiles/pets.dir/src/Dog.cpp.obj	33d756f862d25cd0
+4167	4421	8155700867446103	lib/pets.lib	4a339e34377d4c1a
+4422	5532	8155700869991408	pet_app.exe	a6d6a1cdbb072b0a

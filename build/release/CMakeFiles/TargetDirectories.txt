@@ -1,0 +1,6 @@
+C:/Users/Ivan Mlanarskiy/Desktop/pet_project/build/release/CMakeFiles/pet_app.dir
+C:/Users/Ivan Mlanarskiy/Desktop/pet_project/build/release/CMakeFiles/edit_cache.dir
+C:/Users/Ivan Mlanarskiy/Desktop/pet_project/build/release/CMakeFiles/rebuild_cache.dir
+C:/Users/Ivan Mlanarskiy/Desktop/pet_project/build/release/lib/CMakeFiles/pets.dir
+C:/Users/Ivan Mlanarskiy/Desktop/pet_project/build/release/lib/CMakeFiles/edit_cache.dir
+C:/Users/Ivan Mlanarskiy/Desktop/pet_project/build/release/lib/CMakeFiles/rebuild_cache.dir

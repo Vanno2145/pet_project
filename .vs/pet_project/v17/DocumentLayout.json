@@ -63,8 +63,7 @@
               "RelativeToolTip": "lib\\include\\Pet.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-03T06:45:31.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T06:45:31.99Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "lib\\include\\Parrot.h",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-03T06:45:11.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T06:45:11.677Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "lib\\include\\Dog.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-03T06:45:04.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T06:45:04.84Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "lib\\include\\Cat.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-03T06:44:54.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T06:44:54.867Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "lib\\src\\Cat.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-03T06:44:47.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T06:44:47.347Z"
             }
           ]
         }
